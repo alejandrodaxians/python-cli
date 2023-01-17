@@ -1,0 +1,1 @@
+VACCINE_LIST = ["pfizer","moderna","astrazeneca","janssen","sinovac"]
